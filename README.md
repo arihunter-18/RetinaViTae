@@ -67,10 +67,6 @@ Observed performance:
 1. Set Up Environment:
 
 ```bash
-It's recommended to use a virtual environment.  
-conda create \-n dr\_env python=3.9  
-conda activate dr\_env  
-\# or  
 python \-m venv dr\_env  
 source dr\_env/bin/activate  
 ```
@@ -108,4 +104,5 @@ Future work could explore:
 * Applying more rigorous testing and validation strategies.
 
 **Disclaimer:** These models are developed for research and educational purposes and are not intended for real-world medical imaging applications. They should not be relied upon for diagnosing, predicting, or managing diabetic retinopathy or any other health outcomes. Any health-related decisions should always be made with the guidance of a qualified healthcare professional.
+
 
