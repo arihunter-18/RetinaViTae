@@ -86,14 +86,6 @@ pip install \-r requirements.txt
 
 This project primarily utilizes the [**IDRiD (Indian Diabetic Retinopathy Image Dataset)**](https://idrid.grand-challenge.org/Data/), a publicly available dataset specifically curated for diabetic retinopathy detection and grading. It provides retinal fundus images along with corresponding ground truth labels for DR severity.
 
-### License
-
-The IDRiD dataset is licensed under a Creative Commons Attribution 4.0 International License.
-
-(c) by Prasanna Porwal, Samiksha Pachade and Manesh Kokare.
-
-You should have received a copy of the license along with this work. If not, see [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/).
-
 ## Future Work & Disclaimer
 
 Future work could explore:
@@ -102,7 +94,3 @@ Future work could explore:
 * Implementing advanced dataset balancing techniques.  
 * Collecting and incorporating more diverse data.  
 * Applying more rigorous testing and validation strategies.
-
-**Disclaimer:** These models are developed for research and educational purposes and are not intended for real-world medical imaging applications. They should not be relied upon for diagnosing, predicting, or managing diabetic retinopathy or any other health outcomes. Any health-related decisions should always be made with the guidance of a qualified healthcare professional.
-
-
