@@ -86,7 +86,7 @@ pip install \-r requirements.txt
 
 This project primarily utilizes the [**IDRiD (Indian Diabetic Retinopathy Image Dataset)**](https://idrid.grand-challenge.org/Data/), a publicly available dataset specifically curated for diabetic retinopathy detection and grading. It provides retinal fundus images along with corresponding ground truth labels for DR severity.
 
-## Future Work & Disclaimer
+## Future Work
 
 Future work could explore:
 
@@ -94,3 +94,4 @@ Future work could explore:
 * Implementing advanced dataset balancing techniques.  
 * Collecting and incorporating more diverse data.  
 * Applying more rigorous testing and validation strategies.
+
